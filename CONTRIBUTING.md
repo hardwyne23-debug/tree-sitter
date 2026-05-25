@@ -1,1 +1,1 @@
-See [docs/src/6-contributing.md](./docs/src/6-contributing.md)
+tree-sitter complete --shell <SHELL> # Aliases: compSee [docs/src/6-contributing.md](./docs/src/6-contributing.md)
